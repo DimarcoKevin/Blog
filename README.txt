@@ -1,0 +1,1 @@
+This is going to serve as a blog where I will write about things that interest me. The top three topics will be Cryptocurrency, Programming, and Stocks. I will add more as I see fit.
