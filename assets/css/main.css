@@ -2128,8 +2128,9 @@ input[type="radio"]+label:before {
 .image.code {
     border-radius: 20px;
     border: 0;
-    min-width: 80%;
-    max-width: 100%;
+    max-height: 15em;
+    min-width: 60%;
+    max-width: 90%;
 }
 
 .image img {
