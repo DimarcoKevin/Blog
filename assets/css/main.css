@@ -2133,6 +2133,22 @@ input[type="radio"]+label:before {
     max-width: 90%;
 }
 
+.image.code.medium {
+    border-radius: 20px;
+    border: 0;
+    max-height: 20em;
+    min-width: 60%;
+    max-width: 90%;
+}
+
+.image.code.large {
+    border-radius: 20px;
+    border: 0;
+    max-height: 30em;
+    min-width: 60%;
+    max-width: 90%;
+}
+
 .image img {
     border-radius: 4px;
     display: block;
