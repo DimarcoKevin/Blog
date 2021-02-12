@@ -2125,26 +2125,29 @@ input[type="radio"]+label:before {
     text-align: center;
 }
 
-.image.code {
+.image.largecode {
     border-radius: 20px;
     border: 0;
-    max-height: 15em;
+    min-height: 20em;
+    max-height: 30em;
     min-width: 60%;
     max-width: 90%;
 }
 
-.image.code.medium {
+.image.mediumcode {
     border-radius: 20px;
     border: 0;
+    min-height: 15em;
     max-height: 20em;
     min-width: 60%;
     max-width: 90%;
 }
 
-.image.code.large {
+.image.code {
     border-radius: 20px;
     border: 0;
-    max-height: 30em;
+    min-height: 10em;
+    max-height: 15em;
     min-width: 60%;
     max-width: 90%;
 }
