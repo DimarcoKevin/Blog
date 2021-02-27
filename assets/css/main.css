@@ -2226,10 +2226,12 @@ table tbody tr {
 
 .tableHeader {
     text-align: center;
+    vertical-align: middle;
 }
 
 .tableContent {
     text-align: center;
+    vertical-align: middle;
 }
 
 table tbody tr:nth-child(2n+1) {
