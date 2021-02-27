@@ -2224,6 +2224,10 @@ table tbody tr {
     border-right: 0;
 }
 
+.tableHeader {
+    text-align: center;
+}
+
 table tbody tr:nth-child(2n+1) {
     background-color: rgba(144, 144, 144, 0.075);
 }
@@ -2272,6 +2276,8 @@ table.alt thead {
 table.alt tfoot {
     border-top: 0;
 }
+
+
 
 
 /* Button */
