@@ -243,7 +243,7 @@ a {
     -ms-transition: border-bottom-color 0.2s ease, color 0.2s ease;
     transition: border-bottom-color 0.2s ease, color 0.2s ease;
     text-decoration: none;
-    color: #585858;
+    color: #0088ff;
     border-bottom: dotted 1px rgba(88, 88, 88, 0.5);
 }
 
